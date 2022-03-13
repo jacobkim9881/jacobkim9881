@@ -27,6 +27,6 @@ Open the firewall for accessing your domain.
 ```
 firewall-cmd --add-service http --permanent
 firewall-cmd --add-service https --permanent
-``
+```
 
 [Reference is here](https://www.redhat.com/sysadmin/secure-linux-network-firewall-cmd)
