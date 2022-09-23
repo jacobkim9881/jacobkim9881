@@ -4,7 +4,7 @@
  1. Preparing a website for my business in my private branch.
  
 - 🤔 I’m looking for help with ...
- 1. [localization-manager](https://github.com/jacobkim9881/localization-manager/issues) repository. It's based of node.js. Good for new contributors to help with!
+ 1. [localization-manager](https://github.com/jacobkim9881/localization-manager/issues) repository. It's based of node.js. 
  
 <!--
 **jacobkim9881/jacobkim9881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
