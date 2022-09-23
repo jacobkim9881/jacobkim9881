@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on ...
  1. Preparing a website for my business in my private branch.
+ 2. Refactoring and building [localization-manager](https://github.com/jacobkim9881/localization-manager/issues) repository.
+ 3. Adding new features ['Cursor tails' chrome extension app](https://github.com/jacobkim9881/tailing-mouse-footprint).
  
 - 🤔 I’m looking for help with ...
  1. [localization-manager](https://github.com/jacobkim9881/localization-manager/issues) repository. It's based of node.js. 
