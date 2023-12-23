@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡️ Awake on : KST 2 pm(EST 12 am) - 2 am(EST 12 pm)
+- ⚡️ Awake on : KST 2 pm(EST 12 am, GMT 5 am) - 2 am(EST 12 pm, GMT 5 pm)
  
 
 - 🔭 I’m currently working on ...
